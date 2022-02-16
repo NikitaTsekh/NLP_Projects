@@ -1,10 +1,10 @@
-СТек: NLTK, Gensim, LDA, spacy
+Стек: NLTK, Gensim, LDA, spacy
 
 
 Проект состоит из файлов:
 1)Russian_news(16-02)-preprocessing.ipynb - Preprocessing
-2)Russian_News (16-02)-LDA.ipynb
-3)Russian_News (16-02)-Inference.ipynb
+2)Russian_News (16-02)-LDA.ipynb - Обучение модели LDA
+3)Russian_News (16-02)-Inference.ipynb - Инференс
 
 
 Проект будет дополняться по мере изучения новых инструментов для оптимизации результата тематического моделирования. 
