@@ -1,5 +1,5 @@
-# Pet_projects
-This is a collection of pet_projects
+# NLP_projects
+This is a collection of NLP_projects
 
 
 | №   | Проект  | Задачи |  Навыки и инструменты |
